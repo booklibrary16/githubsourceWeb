@@ -44,4 +44,6 @@ https://github.com/cosname
 https://github.com/Po-Jen     
 https://github.com/zibuyu/research_tao   
 https://github.com/hongxin/csmath-2019     
-
+https://github.com/LiuRuiQi/2015-Application-of-US-Chemistry-Grad-Schools    
+https://github.com/gradfly      
+https://github.com/qiwsir/StarterLearningPython/blob/master/n004.md    
