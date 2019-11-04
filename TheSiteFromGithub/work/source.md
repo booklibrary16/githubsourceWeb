@@ -37,3 +37,11 @@ https://github.com/yuxiaoqqiang
 https://github.com/pzhaonet     
 https://iphyer.github.io/   
 https://github.com/qiwsir?tab=following    
+https://github.com/oneTaken   
+https://github.com/Tong-Chen    
+https://github.com/Terminus2049     
+https://github.com/cosname     
+https://github.com/Po-Jen     
+https://github.com/zibuyu/research_tao
+
+
