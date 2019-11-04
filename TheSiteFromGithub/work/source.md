@@ -28,3 +28,12 @@ https://github.com/qipeng
 https://github.com/xuliker    
 http://yufree.github.io/blogcn/    
 https://github.com/QSCTech/zju-icicles    
+https://github.com/scutan90    
+https://github.com/allmachinelearning    
+https://gist.github.com/cgcgbcbc    
+https://github.com/fangvv    
+https://github.com/xishantingyu/SESE   
+https://github.com/yuxiaoqqiang     
+https://github.com/pzhaonet     
+https://iphyer.github.io/   
+https://github.com/qiwsir?tab=following    
