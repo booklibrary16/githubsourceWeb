@@ -11,8 +11,8 @@ https://github.com/alibaba
 https://www.githubs.cn/top  
 https://www.tinymind.cn/articles/3907  
 https://github.com/zccodere  
-https://github.com/taopanpan   研究生     
-https://github.com/blighli   研究生 
-https://github.com/npubird  研究生  
-https://github.com/Jessicahust  研究生  
+https://github.com/taopanpan   研究生      
+https://github.com/blighli   研究生     
+https://github.com/npubird  研究生     
+https://github.com/Jessicahust  研究生    
 
