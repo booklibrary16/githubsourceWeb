@@ -62,3 +62,22 @@ https://github.com/guobinhit
 https://github.com/ZhiqiangHo   
 
 https://github.com/github   
+
+科学家：  
+https://github.com/yufree/yufree.cn/issues/8   
+https://github.com/jaystone776/python-data-science-cheatsheet/blob/master/2018年数据科学家报告.pdf    
+https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bwzy-five.md   
+https://github.com/junchenfeng/learning-scientist    
+https://github.com/wyusagi/ogs/tree/master/%E8%AE%BE%E5%AE%9A    
+https://github.com/kubeflow/arena/blob/master/README_cn.md   
+https://github.com/ruanyf    
+https://github.com/ustclug/hackergame2018-writeups/blob/master/official/ustcquiz/README.md    
+https://github.com/bingjin/articles/blob/master/archived/python-for-scientists-ligo-example.md    
+https://github.com/happyrabbit/DataScientistR    
+https://github.com/ruanyf/articles/blob/master/2018/2018-11-16-%E6%AF%8F%E5%91%A8%E5%88%86%E4%BA%AB%E7%AC%AC%2031%20%E6%9C%9F.md   
+https://github.com/MisssssCathy/jobs/blob/master/%E3%80%90%E4%B8%8A%E6%B5%B7%E3%80%91AI%20lab%E6%8B%9B%E8%81%98%EF%BC%9ANLP%20CV(%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%8C%E4%B8%93%E5%AE%B6%EF%BC%8Cleader%2C%E5%90%8E%E5%8F%B0%EF%BC%8C%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%EF%BC%89    
+https://github.com/lvorcool/think_python_practice_code    
+https://github.com/YouChouNoBB?tab=overview&from=2018-12-01&to=2018-12-31    
+https://github.com/xitu/gold-miner/issues/6131    
+
+
