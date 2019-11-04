@@ -16,3 +16,15 @@ https://github.com/blighli   研究生
 https://github.com/npubird  研究生     
 https://github.com/Jessicahust  研究生    
 https://github.com/xylinuxer    研究生    
+https://github.com/yufree    研究生    
+https://github.com/m0xiaoxi    研究生    
+
+博士生：    
+https://github.com/lujun9972    
+https://github.com/nhcphdthesis   
+https://gist.github.com/baymaxium    
+https://github.com/mediaic     
+https://github.com/qipeng    
+https://github.com/xuliker    
+http://yufree.github.io/blogcn/    
+https://github.com/QSCTech/zju-icicles    
