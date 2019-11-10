@@ -41,12 +41,18 @@
 {"title": "创始人", "summary": "新管理者如何度过第一个90天", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156718306458117e1a39502c2585f1ac129eeafb86fmnffa.mp3"]},   
 {"title": "童年的秘密", "summary": "风靡全球的蒙氏教育的经典著作，每一个父母必须了解的童年秘密", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567183758d9d870c7c9779c47e867f95afac1063bxcdffa.mp3"]},   
 {"title": "医生的修炼", "summary": "在不完美中探索行医的真相", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567411790bbf9749c6658ce11ba811d9301bd1b04gtzffa.mp3"]},   
-{"title": "离经叛道", "summary": "不按常理出牌的人如何改变世界", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568096622f99a44881951fe112f0d8c538b7ba267r7nffa.mp3"]},   
+{"title": "离经叛道", "summary": "不按常理出牌的人如何改变世界", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568096622f99a44881951fe112f0d8c538b7ba267r7nffa.mp3"]},  
+
 {"title": "感官品牌", "summary": "二流企业造产品，一流企业创品牌。", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/0b5c88d6f2da70a1490e27a1c86d549b_61ef77.mp3"]},   
+
 {"title": "刻意练习", "summary": "杰出不是一种天赋，而是一种人人都可以学会的技巧！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568082653595b7dce72629f4a7b6d35ac2bdb285dvhgffa.mp3"]},   
+
 {"title": "销售洗脑", "summary": "把逛街者变成购买者的8条黄金法则", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/49554fdf766752ba19b696a8863e8a3a_955424.mp3"]},   
+
 {"title": "销售就是要玩转情商", "summary": "99%的人都不知道的销售软技巧", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/9aa5496ee85b5bedac505d1b5834d9c8_d6bf61.mp3"]},   
+
 {"title": "王阳明哲学", "summary": "勾勒阳明思想历程，阐释心学义理", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567587628d29ac07e39c4b26af13fc5b81c1cd2724j4ffa.mp3"]},   
+
 {"title": "权力:为什么只为某些人所拥有", "summary": "权力是“争”来的，不是“等”来的", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568082602a0b00252d78fe1cb433bf1b9a6c2c3dfvukffa.mp3"]},   
 {"title": "如何让你爱的人爱上你", "summary": "你相信吗?你爱的人一定会爱上你!", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/581bc48c52d1ef9e82809dcf2171653f_79012d.mp3"]},   
 {"title": "和繁重的工作一起修行", "summary": "平和喜乐地成就事业", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156809240081a8d215634e5b56eefee1142e813312r8mffa.mp3"]},   
@@ -198,9 +204,13 @@
 {"title": "你就是孩子最好的玩具", "summary": "愿心中有爱的你成为了不起的父母", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/e041ab58fb3ce0c688a8fe62a21dc05e_5b7678.mp3"]},
 {"title": "《高效演讲》", "summary": "一本真正教会你演讲的书…", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156876798647407d088fc5822af2528006b1a3e6b2av8ffa.mp3"]},
 {"title": "干法", "summary": "让你对工作充满干劲的一本书", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567183129795e70fe2bea552cee47f148d8de23d98tuffa.mp3"]},
+
 {"title": "哈佛商学院最受欢迎的领导课", "summary": "宏观层面的领导力！", "mediaUrls": ["http://cdn-ali-dest.dushu.io/media/audio/15705012435571a0dfe55bbf09d5d9d254a086e9c55bhfj0.mp3"]},
+
 {"title": "爆款", "summary": "教你如何打造超级IP", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568092287af3ecb67216cc65093b73ec899e49e40znhffa.mp3"]},
+
 {"title": "第3选择", "summary": "解读所有难题的关键思维", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156758759803557ac851322159f075c69e1f881c7e8atffa.mp3"]},
+
 {"title": "孔子，人能弘道", "summary": "让你全面了解孔子的一本书…", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568768148444a7f419f06377d9d945c6180f2d245gavffa.mp3"]},
 {"title": "金钱不能买什么", "summary": "金钱与公正的正面交锋！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156718326268775ee789c4aedb4fa1079fa1ccfe44nfmffa.mp3"]},
 {"title": "大汗之国", "summary": "从古至今，西方眼中的中国！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156718307891fab8ee5cac25628ef874fb6afd8760yfjffa.mp3"]},
@@ -222,35 +232,67 @@
 {"title": "浪潮式发售", "summary": "热卖的产品发售方程式", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/782594a13bee479eefb26900d0b9f96d_f23cae.mp3"]},
 {"title": "活出生命的意义", "summary": "可以震撼灵魂的一本书！", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/4c3dca0f4981dba76084decdce6ae723_99d4dc.mp3"]},
 {"title": "吸金广告", "summary": "史上最赚钱的文案写作手册！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15671838100de1d5d47ce951d95082edc2dee655c96p2ffa.mp3"]},
+
 {"title": "疯传", "summary": "让你的产品、思想、行为像病毒一样入侵！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15687679555d78aa76839d50f5450a56a14b4082dd7csffa.mp3"]},
+
 {"title": "瞬变", "summary": "让改变轻松起来的九个方法", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/805c562a7ecd150110356f3686a686ca_00349b.mp3"]},
+
 {"title": "叛逆不是孩子的错", "summary": "不打、不骂、不动气的温暖教养术", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15687681867ff04b7a9ad9a12ff17ab5ad9e4946e2k22ffa.mp3"]},
+
 {"title": "钝感力", "summary": "具备不为小事动摇的钝感力，才能成为真正的赢家", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156750053693f0a58b42cc9c185fbc499232d19efanqeffa.mp3"]},
+
 {"title": "从0到1", "summary": "开启商业与未来的秘密", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/7415e8fcbd5becec126bf2d2b12ae77a_eeacc9.mp3"]},
+
 {"title": "如何说孩子才会听，怎么听孩子才肯说", "summary": "让忙碌的父母在最短的时间里学会与孩子亲密沟通", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15674183996cfff11318b5abf69db2ae3e2020bd14uk7ffa.mp3"]},
+
 {"title": "搞定", "summary": "无压工作的艺术", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567500596389c82b8c256734097ed81189722c7a7sjmffa.mp3"]},
+
 {"title": "巴菲特之道", "summary": "将巴菲特思想引进中国的第一本书！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567183023bc7b0b8950feaec12a3e358eded2d075nppffa.mp3"]},
+
 {"title": "解压全书：压力管理", "summary": "了解压力、认识压力，变压力为动力，走向轻松、乐观、健康的理想生活", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567500921e5f19bc6a9b6f90dd45d316d0e412982vdhffa.mp3"]},
+
 {"title": "创客", "summary": "新工业革命缔造者，走进绝好新时代！", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156750060581903b42346cfd9b2d5f1387fcb164723a3ffa.mp3"]},
+
 {"title": "创业维艰", "summary": "如何完成比难更难的事", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568767762f1e29e6a0e3d1a3eb2d9199d929f9a42p5gffa.mp3"]},
+
 {"title": "精神问题有什么可笑的", "summary": "我们都生活在同一个地球上，我们时而受苦，时而欢笑，时而愤怒，时而惹事。在强大的外表之下，我们都有一颗脆弱易碎的玻璃心。", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567183300b02940fc18c84322fed0faa707d2f591dk4ffa.mp3"]},
 {"title": "让孩子远离焦虑", "summary": "帮助孩子摆脱不安、害怕与焦虑的心理课", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156718360852478b217da1d68b6b10d3b31048adab28lffa.mp3"]},
+
 {"title": "次第花开", "summary": "修行对你来说，是次第而行，是平凡而具体、每天都在做的一件事，像吃饭、睡觉那样。", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156876779467ea41b53ccc34bbd76c395d3e3b3d798aaffa.mp3"]},
+
 {"title": "谁说商业直觉是天生的", "summary": "如何培养又快又准的商业直觉", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567183712f2af726970c2d5c390cc89be951453a03v7ffa.mp3"]},
+
 {"title": "认同", "summary": "赢取支持的艺术", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156876820373a8d8301ef8838e7fe0bb891f92ae2cm59ffa.mp3"]},
+
 {"title": "支付战争", "summary": "互联网金融创世纪", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568768550c3366bbbf68b466d847d9ef02e69af20qc2ffa.mp3"]},
+
 {"title": "零边际成本社会", "summary": "一个物联网、合作共赢的新经济时代", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567589729d2c037c5a9f4cffebd07ed0969540dd9lklffa.mp3"]},
+
 {"title": "一个广告人的自白", "summary": "广告史上对广告人影响最大的一本书", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/3c772486d5a1fd8c2a0b4a3a2eb5b4c5_845f59.mp3"]},
+
 {"title": "支付战争（下）", "summary": "互联网金融创世纪", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1567501031c898fe91b472ba680e546ba3c935ae7dzdrffa.mp3"]},
+
 {"title": "基因革命", "summary": "跑步、牛奶、童年经历如何改变我们的基因", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/71b21b54f40e571b0f7895ad4aab3aca_070acf.mp3"]},
+
 {"title": "刀锋上的行走", "summary": "不一样的生活方式", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15674122481240dbc9ca242a9fc526b83a5eb2cd16ezuffa.mp3"]},
+
 {"title": "终结拖延症", "summary": "以行之有效的心理学方法，搞定拖延症", "mediaUrls": ["https://cdn-ali.dushu.io//media/audio/1564137124135ec0ef582739ae0445e73aa47310c59huhv0.mp3"]},
+
 {"title": "母爱的羁绊", "summary": "让母爱回归到爱最初的样子。", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15675011117e72b35c30983c70bb1b38d9e1adc545syrffa.mp3"]},
+
 {"title": "王阳明大传（全三册）", "summary": "知行合一的心学智慧", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568768261e54ecd27cff160de012fd0301155457a7xbffa.mp3"]},
+
 {"title": "我的情绪为何总被他人左右", "summary": "理性情绪行为疗法", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/681c5f5e664ad6b376382e20b5eb996b_9d9c2d.mp3"]},
+
 {"title": "颠覆性医疗革命", "summary": "一个颠覆性的医疗时代来临", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/27a791ada6be3d297d80a6ec4ecdc2cb_9006d2.mp3"]},
+
 {"title": "爱有8种习惯", "summary": "消除不安全感，让生命自由安宁", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568092224e49ffda9bcfe5603d6a3bd7a43d88ca0ru8ffa.mp3"]},
+
 {"title": "商业的本质", "summary": "与杰克·韦尔奇同行：致敬工业时代，回归商业本质", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/156750087662401b888d0f4c0c1e177504f0f4473emnpffa.mp3"]},
+
 {"title": "你要如何衡量你的人生", "summary": "给哈佛商学院毕业生最重要的一堂课", "mediaUrls": ["https://cdn-ali.dushu.io/audio/full/03aa15fff97d27935220c74905d9e671_c217f8.mp3"]},
+
 {"title": "养育女孩", "summary": "家有女孩，如何养育？", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/1568096967cd78402f4e3d9cb390420aca3c08a68ad7yffa.mp3"]},
+
+
 {"title": "梁漱溟先生讲孔孟（上）", "summary": "圣贤眼中的真正生活哲学", "mediaUrls": ["https://cdn-ali-dest.dushu.io/media/audio/15681051158d2ad787f7d629d9e29e4aa462430ffeaafffa.mp3"]}]
