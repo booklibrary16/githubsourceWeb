@@ -1,8 +1,14 @@
-mooc：https://drive.google.com/open?id=1A7wLVyaW-s8WXiGoDUH14BjJLLCxTTvQ   
+mooc：
 
-mooc：https://drive.google.com/open?id=1FNQqadPB172rsVJ1wMsuoKtGBkRxiRVT  
+https://drive.google.com/open?id=1A7wLVyaW-s8WXiGoDUH14BjJLLCxTTvQ   
 
-最强大脑：https://drive.google.com/open?id=16hvka8bxT20Q1bsaAWBrpMtjSP2hJ8Ik  
+mooc：
+
+https://drive.google.com/open?id=1FNQqadPB172rsVJ1wMsuoKtGBkRxiRVT  
+
+最强大脑：
+
+https://drive.google.com/open?id=16hvka8bxT20Q1bsaAWBrpMtjSP2hJ8Ik  
 
 体能训练：https://drive.google.com/open?id=1HYpKQEdvG9qtaNAXl0C_zaX3mZus8rz5  
 
@@ -18,13 +24,17 @@ dongfang：https://drive.google.com/open?id=10Or5qDeW2CKIWtJCDouVIjjWZeHHCh7A
 
 永乐专项：https://drive.google.com/open?id=1tFbXwl4v83e8AaZdhdrDFWZDDo8FydNT   
 
-珠峰培训前段：https://drive.google.com/open?id=1BmrbL7W_qQCd6ITj-MYNhTx1kQUMfP_-  
+珠峰培训前段：
+
+https://drive.google.com/open?id=1BmrbL7W_qQCd6ITj-MYNhTx1kQUMfP_-  
 
 IOS逆向与安全：https://drive.google.com/open?id=1CVnHZBH9zCrWF9Z_d9tbaJ-htyjWcLMS  
 
 考研吃灰：https://drive.google.com/open?id=1m_LZ5q8ZLTwO-51eAUCf3k7cqkGQGrCo  
 
-超级思考力：https://drive.google.com/open?id=19D9nj9J5PIiP4IpVtD1QyRrXRieRIYBT  
+超级思考力：
+
+https://drive.google.com/open?id=19D9nj9J5PIiP4IpVtD1QyRrXRieRIYBT  
 
 音频：https://drive.google.com/open?id=1dQVnDfvirxcRjuyJFCI3trHG2mu5bvbY   
 
